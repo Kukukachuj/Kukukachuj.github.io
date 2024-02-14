@@ -8,6 +8,7 @@ div1{
  color: red;
  size: 30cm;
  text-align: center;
+ font-weight: bolder;
 
 }
 div2{
@@ -16,6 +17,9 @@ div2{
     text-align: center;
     text-indent: 2%;
     text-decoration-style: double;
+    font-size: larger;
+    text-shadow: 38cm;
+
 }
 button{
     width: 2cm;
@@ -24,8 +28,7 @@ button{
     border-color: black;
     border-style: groove;
     border-radius: 3cm;
-    
-    
+    vertical-align: middle;
+   
 
 }
-
